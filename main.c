@@ -2,4 +2,5 @@
 int main()
 {
     puts("Hello friend.");
+    puts("'sup");
 }
